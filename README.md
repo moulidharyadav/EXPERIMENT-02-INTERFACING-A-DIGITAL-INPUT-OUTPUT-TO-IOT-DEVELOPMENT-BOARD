@@ -149,7 +149,8 @@ void IRPAIR()
 ### OBJECT NOT DEDUCTED:
 ![iot ex2 1](https://github.com/user-attachments/assets/f7115357-f9a2-40e2-8f99-3cb791ea6832)
 ### OBJECT DEDUCTED:
-![iot ex2 2](https://github.com/user-attachments/assets/4bf46993-efd8-46a8-b5bc-0b0791697557)
+<img width="578" height="733" alt="image" src="https://github.com/user-attachments/assets/73e38863-f775-452b-91e6-bccc93fd599e" />
+
 
 
 ## Result
